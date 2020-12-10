@@ -37,7 +37,7 @@ public class OMSUser extends JFrame {
 
 
 		rootFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		rootFrame.setTitle("20173079 - Nguyễn Đức Giang");
+		rootFrame.setTitle("20173210 - Đặng Trung Kiên");
 		rootFrame.setSize(WINDOW_WIDTH, WINDOW_HEIGHT);
 		rootFrame.setVisible(true);
 	}
